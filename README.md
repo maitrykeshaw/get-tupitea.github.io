@@ -1,1 +1,1 @@
-# get-tupitea.github.io
+# https://buy-tupitea.vercel.app
