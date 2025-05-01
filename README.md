@@ -1,1 +1,1 @@
-# https://buy-tupitea.vercel.app
+# https://buy-tupitea.vercel.app/
