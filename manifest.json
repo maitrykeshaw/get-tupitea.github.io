@@ -1,12 +1,12 @@
 {
-  "name":"PWA Tutorial",
-  "short_name":"PWA",
+  "name":"Tupi Tea™ - Official Website",
+  "short_name":"Tupi Tea™",
   "start_url":"index.html",
   "display":"standalone",
   "background_color":"#5900b3",
   "theme_color":"#FF5733",
   "scope": ".",
-  "description":"This is a PWA tutorial.",
+  "description":"Tupi Tea is a dietary supplement made entirely of natural ingredients that promotes reproductive health.",
   "icons":[
   {
   "src":"icons/favicon-192x192.png",                     
